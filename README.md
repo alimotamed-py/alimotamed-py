@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Motamed</h1>
-<h3 align="center">PYTHON 🐍 | DJANGO 🚀 | NODE.JS | WEB SCRAPING 🌐</h3>
+<h3 align="center">PYTHON 🐍 | DJANGO 🚀 | MACHIN LEARNING | WEB SCRAPING 🌐</h3>
 
 - 📫 How to reach me **alimotamed.py@gmail.com**
 
